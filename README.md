@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou desenvolvendo minhas habilidade em Python/Java
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades 
-- 📊 Pretendo compartilha meu conhecimeto com outros desenvolvedores
+- 📊 Pretendo compartilhar meu conhecimeto com outros desenvolvedores
 
 ### Conecte-se comigo:
 

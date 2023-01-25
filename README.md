@@ -1,4 +1,7 @@
-### Marcos Santana - [Estudante] 👋
+### "Olá pessoas!" \o/ 👋
+<br>
+My name is Marco Santana, and I'm from Brazil (🇧🇷). I've been working as Developer since 2022 . Actually I work as a Salesforce Developer at NTT DATA ⚡
+<br>
 
 - 💻 Atualmente estou desenvolvendo minhas habilidade em Salesforce/Apex/JavaScript/Java
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades 
@@ -36,6 +39,7 @@
 
 
 ---
+[![Marco Santana](https://github-readme-stats.vercel.app/api?username=omariosouto&theme=dark&show_icons=true&count_private=true)](https://github.com/marcosinsan)
 <!--
 **marcosinsan/marcosinsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

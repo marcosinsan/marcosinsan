@@ -1,6 +1,6 @@
 ### Marcos Santana - [Estudante] 👋
 
-- 💻 Atualmente estou desenvolvendo minhas habilidade em Python/Java
+- 💻 Atualmente estou desenvolvendo minhas habilidade em Salesforce/Apex/JavaScript/Java
 - 📈 Estou constantemente aprendendo e melhorando minhas habilidades 
 - 📊 Pretendo compartilhar meu conhecimeto com outros desenvolvedores
 
@@ -36,7 +36,6 @@
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosinsan&theme=graywhite&show_icons=true)
 <!--
 **marcosinsan/marcosinsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
